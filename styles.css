@@ -1,8 +1,16 @@
 .principal {
     text-align: center; /* centrar los elementos en línea horizontalmente */
     background-color: red;
+    
   }
-   
+.caja-info{
+    width: 370px;
+    height: auto;
+  }
+   .caja-info{
+    width: 370px;
+    height: auto;
+  }
   .caja-info, 
   .caja-infovideo{
     display: inline-block;
@@ -12,10 +20,7 @@
     margin-bottom: 0.5cm;
     margin-top: 0.5cm;   
   }
-  .caja-info{
-    width: 370px;
-    height: auto;
-  }
+  
   .caja-info b{
     text-align: justify 
   }
